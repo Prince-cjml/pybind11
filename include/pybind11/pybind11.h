@@ -25,6 +25,7 @@
 #include "typing.h"
 
 #include <cassert>
+#include <cstdint>
 #include <cstdlib>
 #include <cstring>
 #include <memory>
